@@ -6,6 +6,11 @@
  
 </head>
 <body>
+
+<h3>Check out the live link</h3>
+<a href="https://u-fit.vercel.app/">U-Fit Live Link</a>
+
+  
   <h1>u-fit Workout Planner App</h1>
 
   <p>u-fit is a responsive web application built with React.js and styled using Tailwind CSS. It allows users to plan and track their workouts conveniently.</p>
