@@ -8,7 +8,7 @@
 <body>
 
 <h3>Check out the live link</h3>
-<a href="https://u-fit.vercel.app/">U-Fit Live Link</a>
+<a href="https://u-fit.vercel.app/" target="_blank">U-Fit Live Link</a>
 
   
   <h1>u-fit Workout Planner App</h1>
