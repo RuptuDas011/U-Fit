@@ -3,7 +3,7 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>u-fit Workout Planner App</title>
+ 
 </head>
 <body>
   <h1>u-fit Workout Planner App</h1>
@@ -49,8 +49,7 @@
   <h2>Contributing</h2>
   <p>Contributions are welcome! If you have any ideas, suggestions, or improvements, feel free to create issues or pull requests.</p>
 
-  <h2>License</h2>
-  <p>This project is licensed under the MIT License - see the <a href="LICENSE">LICENSE</a> file for details.</p>
+
 
   <h2>Acknowledgments</h2>
   <ul>
